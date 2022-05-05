@@ -521,4 +521,34 @@ mod tests {
     //              #####################################              //
     //              #  Factory: DAO Code Version Tests  #              //
     //              #####################################              //
+
+    // #[test]
+    // fn test_can_store_code_as_blob_in_factory(){
+    //     pass
+    // }
+
+    // #[test]
+    // fn test_can_set_a_default_code_hash(){
+    //     pass
+    // }
+
+    // #[test]
+    // fn test_fails_if_not_owner_of_factory(){
+    //     pass
+    // }
+
+    // #[test]
+    // fn test_fails_if_no_code_is_attached_when_storing_a_code_blob(){
+    //     pass
+    // }
+
+    // #[test]
+    // fn test_fails_if_code_blob_is_too_small_to_be_a_legit_contract(){
+    //     pass
+    // }
+
+    // #[test]
+    // fn test_fails_if_attached_payment_doesnt_support_the_storage_cost(){
+    //     pass
+    // }
 }
