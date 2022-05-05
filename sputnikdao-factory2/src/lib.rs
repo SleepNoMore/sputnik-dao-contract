@@ -518,6 +518,7 @@ mod tests {
         assert_eq!(factory.get_owner(), bob())
     }
 }
+
     //              #####################################              //
     //              #  Factory: DAO Code Version tests  #              //
     //              #####################################              //
